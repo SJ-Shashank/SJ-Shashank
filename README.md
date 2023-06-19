@@ -1,4 +1,4 @@
-![logo](https://github.com/SJ-Shashank/SJ-Shashank/blob/main/github-header-image.png)
+![logo](https://github.com/SJ-Shashank/SJ-Shashank/blob/main/github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm SHASHANK JAISWAL</h1>
 <h3 align="center">A passionate Software Engineer </h3>
 
